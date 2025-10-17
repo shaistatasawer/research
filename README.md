@@ -7,11 +7,11 @@ One important princple I like is KISS, that mean keep it simple stupid. When I s
 
 DRY
 
-Another one is DRY, don’t repeet yourself. I use to write same lines again and again in many places. Then when I need to change one thing, I forget to change it everywhere and my program stop working. Now I make fuctions and just call them. It save time and make my code shorter. Also when I need to fix something, I only fix one place, not ten times. This princple make my code much more easy to handle.
+Another one is DRY, don’t repeet yourself. I used functions to write onece and use multiple times.  I use to write same lines again and again in many places. Then when I need to change one thing, I forget to change it everywhere and my program stop working. Now I make fuctions and just call them. It save time and make my code shorter. Also when I need to fix something, I only fix one place, not ten times. This princple make my code much more easy to handle.
 
 Single Responsibility
 
-I also try to follow single responsiblity princple. That mean one part of code should do only one job. Before I make one big fuction that do everything — take input, do math, print result, all in one. But now I split it. One fuction take input, one fuction do the math, one fuction show output. It is more clean and if one part break, I know where to look. It help me to find errors more fast and not get confuse.
+I also try to follow single responsiblity princple. That mean one part of code should do only one job. For example, a class does only one job as i did in second assessment.  Before I make one big fuction that do everything — take input, do math, print result, all in one. But now I split it. One fuction take input, one fuction do the math, one fuction show output. It is more clean and if one part break, I know where to look. It help me to find errors more fast and not get confuse.
 
 Yagni
 
